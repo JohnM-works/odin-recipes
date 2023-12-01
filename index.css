@@ -67,6 +67,7 @@ p {
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin: 0 auto;
 }
 
 .home .home-content h1 {
@@ -79,6 +80,7 @@ p {
 .home p {
     color: white;
     font-size: 30px;
+    margin-bottom: 300px;;
 }
 
 footer {
