@@ -80,3 +80,14 @@ p {
     align-items: center;
     text-align: center;
 }
+
+footer {
+    margin-top: 200px;
+    background-color: #1d1d1d;
+}
+
+footer p {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
