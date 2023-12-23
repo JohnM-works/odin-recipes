@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'georgia';
 }
 
 .home-content {
@@ -17,6 +18,10 @@
     margin: auto;
     text-align: center;
     padding-top: 80px;
+}
+
+.menu .menu-content p{
+    font-style: italic;
 }
 
 h1 {
