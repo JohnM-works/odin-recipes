@@ -40,7 +40,7 @@
 }
 
 .recipe-content .recipe-description p {
-    font-weight: 300px;
+    font-weight: 300;
     font-size: 20px;
     letter-spacing: 0.1rem;
     color: #535353;
@@ -65,7 +65,7 @@
 }
 
 .recipe-row .recipe-column p {
-    font-weight: 300px;
+    font-weight: 300;
     font-size: 20px;
     letter-spacing: 0.1rem;
     color: #535353;
@@ -78,19 +78,18 @@
 
 .menu-description {
     margin-top: 80px;
-    padding: 50px auto;
+    padding: 50px 100px;
     display: flex;
     color: #f5f2f2;
     background-color: #292828;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .menu-description .instructions {
-    padding: 60px 120px;
-    border-right: 3px solid rgb(116, 116, 116, 0.2);
-    font-weight: 300px;
+    font-weight: 300;
+    padding-bottom: 50px;
     font-size: 20px;
-    margin: 10px 0;
     letter-spacing: 0.1rem;
     flex: 1;
 }
